@@ -1,0 +1,41 @@
+[
+  {
+    "id": "quiz1",
+    "question": "Which HTML tag is for code snippets?",
+    "choices": [
+      "<pre>",
+      "<code>",
+      "<script>",
+      "<div>"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Use <code> for inline code.",
+    "timeLimit": 60
+  },
+  {
+    "id": "quiz2",
+    "question": "Which property aligns items in flex container vertically?",
+    "choices": [
+      "justify-content",
+      "align-items",
+      "flex-direction",
+      "display"
+    ],
+    "correctAnswer": 1,
+    "explanation": "align-items aligns cross-axis.",
+    "timeLimit": 60
+  },
+  {
+    "id": "quiz3",
+    "question": "How to declare a JS function?",
+    "choices": [
+      "function name(){}",
+      "def name(){}",
+      "fun name(){}",
+      "fn name(){}"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Use function keyword.",
+    "timeLimit": 60
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "news1",
+    "title": "Platform Launched",
+    "description": "E-Learn Pro launched with sample lessons and exam mode.",
+    "date": "2025-11-14"
+  },
+  {
+    "id": "news2",
+    "title": "Exam Mode Live",
+    "description": "Try the exam mode with timer and auto-save.",
+    "date": "2025-11-14"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "badge1",
+    "name": "Learner",
+    "threshold": 1,
+    "icon": "asset/sample.png"
+  },
+  {
+    "id": "badge2",
+    "name": "Pro Learner",
+    "threshold": 3,
+    "icon": "asset/sample.png"
+  }
+]

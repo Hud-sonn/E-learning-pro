@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lesson1",
+    "title": "HTML Basics",
+    "description": "Intro to HTML: tags, structure, and examples.",
+    "text": "<p>HTML is the structure of web pages.</p>",
+    "code": "<h1>Hello</h1>",
+    "image": "asset/sample.png"
+  },
+  {
+    "id": "lesson2",
+    "title": "CSS Flexbox",
+    "description": "Layout with Flexbox.",
+    "text": "<p>Flexbox helps layout elements in one dimension.</p>",
+    "code": ".container { display:flex; }",
+    "image": "asset/sample.png"
+  },
+  {
+    "id": "lesson3",
+    "title": "JS Functions",
+    "description": "Defining and calling functions.",
+    "text": "<p>Functions are reusable blocks of code.</p>",
+    "code": "function greet(){ console.log('hi') }",
+    "image": "asset/sample.png"
+  }
+]
