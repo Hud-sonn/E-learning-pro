@@ -7,7 +7,7 @@ async function loadNews() {
     if (!container) return;
 
     try {
-        const response = await fetch("/firestore-seed/news.json");
+        const response = await fetch("./firestore-seed/news.json");
 
         if (!response.ok) {
             throw new Error("Failed to load news.json");
